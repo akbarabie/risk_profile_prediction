@@ -94,7 +94,7 @@ risk_profile_prediction/
 ## 💻 Running Locally
 
 ```bash
-git clone https://github.com/<your-username>/risk_profile_prediction.git
+git clone https://github.com/akbarabie/risk_profile_prediction.git
 cd risk_profile_prediction
 
 python -m venv .venv
