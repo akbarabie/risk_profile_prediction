@@ -1,0 +1,13 @@
+# scikit-learn di-pin ke versi yang sama persis dengan environment training.
+# Pipeline (termasuk custom transformer IQRCapper) di-pickle dengan versi ini;
+# versi scikit-learn yang berbeda berpotensi gagal unpickle atau menghasilkan
+# prediksi yang tidak konsisten dengan hasil training.
+scikit-learn==1.6.1
+xgboost
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+Pillow
